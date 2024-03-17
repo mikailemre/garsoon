@@ -13,7 +13,7 @@ kagit/plastik gibi dogaya zararlı maddelerin kullanımını en aza indirmek.
 
 
 Yer alacak özellikler:
-1-Çoklu restoran kaydı ile kendi başına bir sipariş dünyası oluşturma.
+1-Çoklu restoran kaydı ile kendi başına bir sipariş dünyası oluşturma. <br/>
 2-Restoran genel bilgileri girilebilme (Konsept, katagori, açılış saatş bilgileri, adres, ödeme yöntemleri).
 3-Müşteri kaydı. Müşteri bilgilerinin (örn. Kredi Kartı) saklanarak daha hızlı işlem sağlamaları. Müşteri sipariş geçmişi.
 4-Müşterinin restoranı puanlayabilmesi. Herkese açık şekilde bu puanlamananın görüntülenmesi.
