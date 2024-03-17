@@ -7,11 +7,6 @@ yasadigi baskiyi ortadan kaldirmak, müsterinin porsiyon miktarlarini ve istedig
 özgürlügu, farkll ödeme yöntemleri sunmak, olasi menü degisikliginde menü basimini önlemek ve
 kagit/plastik gibi dogaya zararlı maddelerin kullanımını en aza indirmek.<br/>
 
-
-
-
-
-
 Yer alacak özellikler:<br/>
 1-Çoklu restoran kaydı ile kendi başına bir sipariş dünyası oluşturma. <br/>
 2-Restoran genel bilgileri girilebilme (Konsept, katagori, açılış saatş bilgileri, adres, ödeme yöntemleri).<br/>
@@ -23,5 +18,7 @@ Yer alacak özellikler:<br/>
 8-Müşterinin sipariş tahmini hazırlanma süresini ve hangi aşamada olduğunu bilme.<br/>
 
 
+garsoon WEB ve MOBİL olarak kodlama aşamasındadır.<br/>
 
-garsoon WEB ve MOBİL olarak kodlama aşamasındadır.
+
+![alt text](/Arayuz/garsoon-arayuz.png)
