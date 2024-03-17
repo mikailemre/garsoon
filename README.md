@@ -5,22 +5,22 @@ Yasanan siparis alma sürelerini kısaltmak, hatalari yok etmek, kullanıcının
 yapabilmesi, müsterinin güncel stok durumuna göre dogru bilgilendirmesi, kullanicinin seçim yaparken
 yasadigi baskiyi ortadan kaldirmak, müsterinin porsiyon miktarlarini ve istedigi porsiyonu ayarlama
 özgürlügu, farkll ödeme yöntemleri sunmak, olasi menü degisikliginde menü basimini önlemek ve
-kagit/plastik gibi dogaya zararlı maddelerin kullanımını en aza indirmek.
+kagit/plastik gibi dogaya zararlı maddelerin kullanımını en aza indirmek.<br/>
 
 
 
 
 
 
-Yer alacak özellikler:
+Yer alacak özellikler:<br/>
 1-Çoklu restoran kaydı ile kendi başına bir sipariş dünyası oluşturma. <br/>
-2-Restoran genel bilgileri girilebilme (Konsept, katagori, açılış saatş bilgileri, adres, ödeme yöntemleri).
-3-Müşteri kaydı. Müşteri bilgilerinin (örn. Kredi Kartı) saklanarak daha hızlı işlem sağlamaları. Müşteri sipariş geçmişi.
-4-Müşterinin restoranı puanlayabilmesi. Herkese açık şekilde bu puanlamananın görüntülenmesi.
-5-İşletmenin masa girdinisini istediği gibi yapabilmesi ve kişi sayıyısını belirleyebilmesi. 
-6-Restoranın menülerini, katagori ve yemek bazlı tasarlayabilme imkanı.
-7-Restoranın gireceği içerik ve porsiyon bilgisi ile müşterinin daha doğru bilgi edinmesi.
-8-Müşterinin sipariş tahmini hazırlanma süresini ve hangi aşamada olduğunu bilme.
+2-Restoran genel bilgileri girilebilme (Konsept, katagori, açılış saatş bilgileri, adres, ödeme yöntemleri).<br/>
+3-Müşteri kaydı. Müşteri bilgilerinin (örn. Kredi Kartı) saklanarak daha hızlı işlem sağlamaları. Müşteri sipariş geçmişi.<br/>
+4-Müşterinin restoranı puanlayabilmesi. Herkese açık şekilde bu puanlamananın görüntülenmesi.<br/>
+5-İşletmenin masa girdinisini istediği gibi yapabilmesi ve kişi sayıyısını belirleyebilmesi. <br/>
+6-Restoranın menülerini, katagori ve yemek bazlı tasarlayabilme imkanı.<br/>
+7-Restoranın gireceği içerik ve porsiyon bilgisi ile müşterinin daha doğru bilgi edinmesi.<br/>
+8-Müşterinin sipariş tahmini hazırlanma süresini ve hangi aşamada olduğunu bilme.<br/>
 
 
 
